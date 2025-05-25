@@ -1,0 +1,8 @@
+{
+  "subject": "заголовок",
+  "attachments": "files",
+  "file_with_message": "dependencies/message.txt",
+  "to": "почта_получателя",
+  "from": "почта_отправителя",
+  "cc": ""
+}
