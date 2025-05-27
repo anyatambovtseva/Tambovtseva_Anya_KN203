@@ -1,0 +1,5 @@
+{
+  "vk_api_url": "https://api.vk.com/method/",
+  "access_token": "your_token",
+  "vk_api_version": "5.131"
+}
