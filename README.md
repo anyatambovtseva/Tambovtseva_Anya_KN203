@@ -12,3 +12,5 @@ POP3 клиент. Пользователю было послано письмо
 ![img_2.png](img_2.png)
 
 ![img_3.png](img_3.png)
+
+![IMG20250602003956.jpg](attachments%2FIMG20250602003956.jpg)
